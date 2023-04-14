@@ -6,7 +6,7 @@ The dataset for this repo can be found at: https://www.kaggle.com/competitions/j
 
 # Notebooks Chronology:
 
-1. Base Notebook - The notebook can be found on [Kaggle](https://www.kaggle.com/code/tanulsingh077/deep-learning-for-nlp-zero-to-transformers-bert#Word-Embeddings]).
+1. [Base Notebook](https://github.com/PragyanSubedi/NLP-Deep-Learning/blob/main/1.%20Base%20Notebook.ipynb) - The notebook was originally published on [Kaggle](https://www.kaggle.com/code/tanulsingh077/deep-learning-for-nlp-zero-to-transformers-bert]).
 2. [RNN and Bi-directional RNN](https://github.com/PragyanSubedi/NLP-Deep-Learning/blob/main/2.%20RNN%20and%20Bi-directional%20RNN.ipynb)
 3. [LSTM, GRU and Bi-directional LSTM/GRU](https://github.com/PragyanSubedi/NLP-Deep-Learning/blob/main/3.%20LSTM%2C%20GRU%20and%20Bi-directional%20LSTM_GRU.ipynb)
 4. [Attention and Transformers model](https://github.com/PragyanSubedi/NLP-Deep-Learning/blob/main/4.%20Attention%20and%20Transformers%20model.ipynb)
